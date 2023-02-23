@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(29, 29, 29);
+    color: rgb(156, 156, 156);
+    font-family: sans-serif;
+}
+h1 {
+    font-size: xx-large;
+}
+img {
+    width: 80px;
+    height: 55px;
+}
+#topleft{
+    top:0;
+    left:0;
+}
+#top{
+    top:0;
+    left: 480px;
+}
+a{
+    font-size:large;
+}
+button{
+    border-radius:10px;
+    height:25px;
+    width: 85px;
+    background-color:rgb(156, 156, 156) ;
+}
